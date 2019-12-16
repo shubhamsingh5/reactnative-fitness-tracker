@@ -1,3 +1,5 @@
+This app was built for UW-Madison's CS 639 - User Interface Design.
+
 # CS639 React Native
 
 ## Fitness/Tracking API
